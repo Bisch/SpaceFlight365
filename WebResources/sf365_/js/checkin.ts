@@ -7,7 +7,7 @@ namespace sf365.checkin {
             this.isBusy = ko.observable(false);           
         }
         public foo() {
-            alert("bar"); 
+            alert("bar");  
         }     
     } 
 }
