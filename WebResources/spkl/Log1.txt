@@ -1,0 +1,21 @@
+3:36:27 PM	Deploying Plugins
+3:36:27 PM	Searching for plugin config in 'C:\Users\bacharchoucair\source\repos\SpaceFlight365\WebResources\spkl\..'
+3:36:27 PM	Using Config 'C:\Users\bacharchoucair\source\repos\SpaceFlight365\WebResources'
+3:36:27 PM	Processed 1 config(s)
+3:39:52 PM	Deploying Plugins
+3:39:52 PM	Searching for plugin config in 'C:\Users\bacharchoucair\source\repos\SpaceFlight365\WebResources\spkl\..'
+3:39:52 PM	Using Config 'C:\Users\bacharchoucair\source\repos\SpaceFlight365\WebResources'
+3:39:52 PM	Processed 1 config(s)
+3:40:52 PM	Deploying WebResources
+3:40:52 PM	Using Config 'C:\Users\bacharchoucair\source\repos\SpaceFlight365\WebResources'
+3:40:53 PM	Creating Webresource 'sf365_\js\checkin.js' -> 'sf365_/js/checkin.js'
+3:40:54 PM	Adding to solution '<SolutionUniqueName>'
+3:43:40 PM	Deploying WebResources
+3:43:40 PM	Using Config 'C:\Users\bacharchoucair\source\repos\SpaceFlight365\WebResources'
+3:43:41 PM	Updating Webresource 'sf365_\js\checkin.js' -> 'sf365_/js/checkin.js'
+3:43:42 PM	Adding to solution 'SPKL'
+3:43:43 PM	Deployed 1 webresource(s)
+3:43:43 PM	Publishing 1 webresources...
+3:43:51 PM	Publish complete.
+3:43:51 PM	Processed 1 section(s)
+3:43:51 PM	Processed 1 config(s)
