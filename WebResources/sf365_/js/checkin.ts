@@ -10,4 +10,4 @@ namespace sf365.checkin {
             alert("bar");  
         }     
     } 
-}
+} 

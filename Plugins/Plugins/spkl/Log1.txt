@@ -1,0 +1,18 @@
+5:06:03 PM	Deploying Plugins
+5:06:03 PM	Searching for plugin config in 'C:\Users\bacharchoucair\source\repos\SpaceFlight365\Plugins\Plugins\spkl\..'
+5:06:04 PM	Using Config 'C:\Users\bacharchoucair\source\repos\SpaceFlight365\Plugins\Plugins'
+5:06:04 PM	Checking assembly 'microsoft.identitymodel.dll' for plugins
+5:06:05 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+5:06:05 PM	2 plugin(s) found!
+5:06:05 PM	Processed 1 config(s)
+5:09:01 PM	Deploying Plugins
+5:09:01 PM	Searching for plugin config in 'C:\Users\bacharchoucair\source\repos\SpaceFlight365\Plugins\Plugins\spkl\..'
+5:09:01 PM	Using Config 'C:\Users\bacharchoucair\source\repos\SpaceFlight365\Plugins\Plugins'
+5:09:01 PM	Checking assembly 'microsoft.identitymodel.dll' for plugins
+5:09:01 PM	Checking assembly 'SF365.Plugins.dll' for plugins
+5:09:01 PM	2 plugin(s) found!
+5:09:03 PM	Registering Plugin 'SF365.Plugins' from 'C:\Users\bacharchoucair\source\repos\SpaceFlight365\Plugins\Plugins\bin\Debug\SF365.Plugins.dll'
+5:09:05 PM	Registering Type 'SF365.Plugins.AccountPlugin'
+5:09:06 PM	Registering Step 'Pre-Update Account'
+5:09:06 PM	Registering Image 'PreImage'
+5:09:07 PM	Processed 1 config(s)
